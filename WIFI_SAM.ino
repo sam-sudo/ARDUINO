@@ -10,8 +10,8 @@ IPAddress ip(192,168,1,135);
 IPAddress gateway(192,168,1,1);
 IPAddress subnet (255,255,255,0);
 
-const char* ssid = "F_v_19()//";
-const char* password = "Repetidor_()()";
+const char* ssid = "*****";
+const char* password = "***";
 
 
 WiFiServer server(80);
